@@ -1,1 +1,2 @@
 Iniciando repositorio local
+Clone do repositorio da nuvem.
